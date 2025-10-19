@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "court_complex": "Patiala House Courts Complex",
+    "date": "2025-10-18",
+    "downloaded_at": "2025-10-18T14:35:22",
+    "total_pdfs": 5
+  },
+  "cause_lists": [
+    {
+      "judge_name": "Sh. Vipin Kharb, ADJ-01",
+      "court_name": "Court Room 304, PHC",
+      "pdf_url": "https://newdelhi.dcourts.gov.in/wp-content/uploads/2025/10/Judge1.pdf",
+      "file_path": "downloads/PatialaHouse_2025-10-18_Judge1.pdf",
+      "size_kb": 243,
+      "status": "Downloaded"
+    },
+    {
+      "judge_name": "Ms. Poonam Chaudhary, ASJ-02",
+      "court_name": "Court Room 208, PHC",
+      "pdf_url": "https://newdelhi.dcourts.gov.in/wp-content/uploads/2025/10/Judge2.pdf",
+      "file_path": "downloads/PatialaHouse_2025-10-18_Judge2.pdf",
+      "size_kb": 198,
+      "status": "Downloaded"
+    }
+  ]
+}
